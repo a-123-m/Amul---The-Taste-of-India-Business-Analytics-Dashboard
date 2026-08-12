@@ -110,14 +110,14 @@ The cleaning process included:
    * Established relationships between fact and dimension tables using appropriate keys.
    <img width="1372" height="717" alt="image" src="https://github.com/user-attachments/assets/bfea5450-d3c0-4f51-b717-fcbde2b7920c" />
 
-   #### FACT TABLES
+#### FACT TABLES
 * Fact Sales
 * Fact Target
 * Fact Inventory
 * Fact Marketing
 * Fact Returns
       
-  #### DIMENSION TABLES
+#### DIMENSION TABLES
 * Dim customer
 * Dim product
 * Dim marketing
